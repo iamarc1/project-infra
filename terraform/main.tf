@@ -1,4 +1,4 @@
 resource "aws_instance" "example" {
-  ami           = "ami-0c55b159cbfafe1f0"  # Amazon Linux 2 AMI for N. Virginia
+  ami           = "ami-0f5ee92e2d63afc18"
   instance_type = "t2.micro"
 }
